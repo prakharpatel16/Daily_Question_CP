@@ -1,4 +1,4 @@
-// Last updated: 22/07/2026, 17:07:36
+// Last updated: 22/07/2026, 17:07:56
 1class SparseTable {
 2private:
 3    vector<vector<int>> st;
